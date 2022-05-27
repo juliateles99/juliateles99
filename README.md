@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/Kij4XHV.gif">
+<img src="https://imgur.com/H9bJVqp.gif">
 
 📲 Estudante de Desenvolvimento iOS com foco em Swift
 
