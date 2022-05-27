@@ -1,6 +1,8 @@
-<img src="https://imgur.com/H9bJVqp.gif">
+<img src="https://i.imgur.com/e1RNm7g.gif">
 
 📲 Estudante de Desenvolvimento iOS com foco em Swift
 
-💌 Contate-me: [ `Linkedin`](https://www.linkedin.com/in/juliateles22/ " `Linkedin`"), [`Instagram`](https://www.instagram.com/dev.jujuajuda/ "`Instagram`"), [`Twitter`](https://twitter.com/j_ulia1 "`Twitter`")
+💙 Atualmente no time de iOS no Use Academy | Code Like a Girl 
+
+💌 Contate-me: [ `Linkedin`](https://www.linkedin.com/in/juliateles22/ " `Linkedin`"), [`Instagram`](https://www.instagram.com/dev.jujuajuda/ "`Instagram`")
 
