@@ -6,7 +6,7 @@
 
 💌 Contate-me: [ `Linkedin`](https://www.linkedin.com/in/juliateles22/ " `Linkedin`")
 
-🏫 Cursando Ciência da Computação na Universidade Católica de Brasília
+📚 Cursando Ciência da Computação na Universidade Católica de Brasília
 
 <div align="center">
   <a href="https://github.com/juliateles99">
