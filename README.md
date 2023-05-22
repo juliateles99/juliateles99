@@ -8,3 +8,4 @@
 
 📚 Cursando Ciência da Computação na Universidade Católica de Brasília
 
+💻 Desenvolvedora Back-End na DataPrev.
