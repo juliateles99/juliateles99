@@ -12,8 +12,8 @@
   </p>
 
   <p>
-    <a href="https://www.linkedin.com/in/dev-julia/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="mailto:juliarteeles@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+    <a href="https://www.linkedin.com/in/dev-julia/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="mailto:juliarteeles@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-DB7093?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   </p>
 </div>
 
@@ -22,31 +22,20 @@
 ## 📊 Meus Destaques no GitHub
 
 <div align="center">
-
-| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=juliateles99&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juliateles99&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
-|---|---|
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=juliateles99&theme=dracula&row=1&column=6&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="Troféus de Julia Teles"/>
-
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=juliateles99&theme=radical&hide_border=true" alt="GitHub Streak" />
+  </a>
 </div>
 
----
-
-## 🛠️ Minhas Ferramentas para Desenvolvimento Java
-
-<div align="center" >
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,maven,gradle,hibernate,mysql,git,github,vscode,eclipse,postman,kafka,kubernetes,aws,azure,dynamodb,spring,docker&theme=dark" />
-  </a>
-  <br />
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=juliateles99&show_icons=true&theme=radical&include_all_commits=true&count_private=true&show_forks=true" alt="Estatísticas de Julia Teles no GitHub" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliateles99&layout=compact&langs_count=8&theme=radical" alt="Linguagens mais usadas por Julia Teles" />
 </div>
 
 ---
 
 <div align="center">
   <br>
-  <em>Abraços da Juju!</em>
+  <em>Abraços da Júlia</em>
   <br>
 </div>
